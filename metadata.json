@@ -1,0 +1,5 @@
+{
+  "name": "ai-site-security-diagnosis",
+  "description": "An AI-powered diagnosis tool to visualize hidden threats in corporate websites, such as information leakage, server vulnerabilities, and risks of unauthorized use in LLM training data.",
+  "requestFramePermissions": []
+}
